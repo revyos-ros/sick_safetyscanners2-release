@@ -155,4 +155,3 @@ tracks:
     vcs_type: git
     vcs_uri: https://github.com/SICKAG/sick_safetyscanners2.git
     version: :{auto}
-
